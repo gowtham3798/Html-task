@@ -268,7 +268,6 @@
     </head>
     <title>Document</title>
     <body>
-        <form action="/action_page.php">
             <label for="fname"></label><br>
             <input type="text" id="fname" placeholder="Enter your name"name="fname"><br><br>
             
